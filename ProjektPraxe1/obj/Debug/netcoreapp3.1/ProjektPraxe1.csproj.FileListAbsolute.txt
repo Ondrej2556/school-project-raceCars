@@ -1,0 +1,13 @@
+C:\Users\Ondřej\Desktop\projektPraxe4\ProjektPraxe1\ProjektPraxe1\bin\Debug\netcoreapp3.1\ProjektPraxe1.exe
+C:\Users\Ondřej\Desktop\projektPraxe4\ProjektPraxe1\ProjektPraxe1\bin\Debug\netcoreapp3.1\ProjektPraxe1.deps.json
+C:\Users\Ondřej\Desktop\projektPraxe4\ProjektPraxe1\ProjektPraxe1\bin\Debug\netcoreapp3.1\ProjektPraxe1.runtimeconfig.json
+C:\Users\Ondřej\Desktop\projektPraxe4\ProjektPraxe1\ProjektPraxe1\bin\Debug\netcoreapp3.1\ProjektPraxe1.runtimeconfig.dev.json
+C:\Users\Ondřej\Desktop\projektPraxe4\ProjektPraxe1\ProjektPraxe1\bin\Debug\netcoreapp3.1\ProjektPraxe1.dll
+C:\Users\Ondřej\Desktop\projektPraxe4\ProjektPraxe1\ProjektPraxe1\bin\Debug\netcoreapp3.1\ProjektPraxe1.pdb
+C:\Users\Ondřej\Desktop\projektPraxe4\ProjektPraxe1\ProjektPraxe1\obj\Debug\netcoreapp3.1\ProjektPraxe1.csprojAssemblyReference.cache
+C:\Users\Ondřej\Desktop\projektPraxe4\ProjektPraxe1\ProjektPraxe1\obj\Debug\netcoreapp3.1\ProjektPraxe1.AssemblyInfoInputs.cache
+C:\Users\Ondřej\Desktop\projektPraxe4\ProjektPraxe1\ProjektPraxe1\obj\Debug\netcoreapp3.1\ProjektPraxe1.AssemblyInfo.cs
+C:\Users\Ondřej\Desktop\projektPraxe4\ProjektPraxe1\ProjektPraxe1\obj\Debug\netcoreapp3.1\ProjektPraxe1.csproj.CoreCompileInputs.cache
+C:\Users\Ondřej\Desktop\projektPraxe4\ProjektPraxe1\ProjektPraxe1\obj\Debug\netcoreapp3.1\ProjektPraxe1.dll
+C:\Users\Ondřej\Desktop\projektPraxe4\ProjektPraxe1\ProjektPraxe1\obj\Debug\netcoreapp3.1\ProjektPraxe1.pdb
+C:\Users\Ondřej\Desktop\projektPraxe4\ProjektPraxe1\ProjektPraxe1\obj\Debug\netcoreapp3.1\ProjektPraxe1.genruntimeconfig.cache
